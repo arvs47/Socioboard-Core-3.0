@@ -1,0 +1,13 @@
+To work in local host
+
+You need Visual studio 2015 with update 3
+Dot net Core previewing tool 
+dot net core sdk 1.0.0 preview2 3133 
+mysql connector for .net
+mysql for visual studio Xamp with mysql
+
+Start mysql in xamp and open HeidiSql and follow  steps
+
+Connect Database using the database in Visual basic 
+Rename database names if it shows cannot create user or something , you need to add your database neame in mongodb settings ,
+
